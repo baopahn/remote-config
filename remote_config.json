@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "analysis": {
+    "batch_frames": 10,
+    "batch_sleep_ms": 0
+  }
+}
